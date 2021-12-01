@@ -1,6 +1,6 @@
 # Network Intrusion Detection System
 
-We built a traffic flow classifier and a monitoring app which analyses all the flows passed through a switch and flags the one which seem to be an anomaly.
+Built a traffic flow classifier and a monitoring app which analyses all the flows passed through a switch and flags the one which seem to be an anomaly.
 
 The classifier takes eight features of a flow as input 
 
